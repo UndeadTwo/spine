@@ -37,6 +37,7 @@
 #include <spine/extension.h>
 #include <spine/spine.h>
 #include <core/method_bind_ext.gen.inc>
+#include <core/version.h>
 
 #include "spine_slot.h"
 
